@@ -1,6 +1,6 @@
 # Authenticket
 
-The authocate-server project is a Node.js middleware designed to simplify user authentication and management for Express applications. It offers several features, including custom protected routes, rate limiting, and user management. Below is a summary of the key points from the README:
+The authenticket project is a Node.js middleware designed to simplify user authentication and management for Express applications. It offers several features, including custom protected routes, rate limiting, and user management. Below is a summary of the key points from the README:
 
 # Features:
 
