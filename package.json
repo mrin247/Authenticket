@@ -1,6 +1,6 @@
 {
-  "name": "Authenticket",
-  "version": "1.0.0",
+  "name": "authenticket",
+  "version": "1.0.1",
   "description": "npm package to handle authentication logic",
   "main": "index.js",
   "scripts": {
