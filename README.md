@@ -8,6 +8,10 @@ The authenticket project is a Node.js middleware designed to simplify user authe
 - Custom Protected Routes: Middleware to secure your endpoints and ensure only authenticated users can access them.
 - Custom User Schema: You can use the default user schema or create your own to fit your application's needs.
 
+# JWT Authentication Flow:
+![image](https://github.com/mrin247/Authenticket/assets/72962881/d6336a5e-6e64-4b68-9366-8244a83d1fec)
+
+
 #Setup Instructions:
 
 - Install required packages: Express, Mongoose, dotenv.
